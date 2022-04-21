@@ -1,0 +1,107 @@
+/* Font */
+.font{
+    font-family: 'Square Peg', cursive;
+}
+
+/* Seksyen 1 */
+.seksyen1{
+    background-image: url(https://wallpaperaccess.com/full/896790.png);
+    padding: 7% 15% 7%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-hacker{
+    color: #ffc107;
+}
+
+.tulisanPutih{
+    color: white;
+}
+
+/* Seksyen 2 */
+.seksyen2{
+    background-image: url(https://wallpaperaccess.com/full/896790.png);
+    padding: 5% 15% 5%;
+    text-align: center;
+}
+.icon{
+    color: #ffc107;
+    margin-bottom: 1rem;
+}
+
+.feature-box{
+    padding: 3%;
+}
+
+/* Seksyen 3 */
+.seksyen3{
+    background-color: #e9ecef;
+    padding: 100%;
+    text-align: center;
+    color: white;
+}
+
+/* Seksyen 4 */
+.seksyen4{
+    background-image: url(https://wallpaperaccess.com/full/896790.png);
+    padding: 5%;
+    text-align: center;
+}
+
+/* Seksyen 5 */
+.seksyen5{
+    background-image: url(https://wallpaperaccess.com/full/896790.png);
+    padding: 5% 20% 5%;
+    text-align: left;
+    color: white;
+}
+
+/* Footer */
+.footer{
+    background-image: url(https://wallpaperaccess.com/full/896790.png);
+    padding: 2%;
+    text-align: center;
+}
+
+.media{
+    color: white;
+}
+
+h1{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+h2{
+    color: white;
+    font-family: 'Satisfy', cursive;
+}
+
+h3{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+h5{
+    color: white;
+    font-family: 'Comfortaa', cursive;
+}
+
+h6{
+    color: white;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+p{
+    color: white;
+    font-family: 'Comfortaa', cursive;
+}
+
+button{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+label{
+    font-family: 'Barlow Condensed', sans-serif;
+}
